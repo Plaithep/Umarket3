@@ -1,0 +1,12 @@
+{
+  "name": "Umarket2",
+  "displayName": "Umarket2",
+  "expo": {
+    "name": "Umarket2",
+    "slug": "Umarket2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
